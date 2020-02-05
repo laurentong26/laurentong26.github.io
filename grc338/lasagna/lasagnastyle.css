@@ -1,0 +1,43 @@
+/*CSS DOCUMENT*/
+
+h1{
+    color:rgb(179,0,0);
+    font-size: 3em;
+    text-align: center;
+}
+
+h2{
+    color:rgb(100,119,60);
+    font-size: 2em;
+    text-align: center;
+    font-style: italic;
+}
+
+h3{
+    color:rgb(179,0,0);
+    font-size: 1.5em;
+    font-style:bold;
+    text-transform: uppercase;
+    margin:1.5em 1em 1em 1em;
+}
+
+
+p{
+    color:rgb(153,153,153);
+    font-family:sans-serif;
+    margin:1em 2em 4em 5em;
+}
+
+ul{
+     font-family:sans-serif;
+}
+
+ol{
+    font-family:sans-serif;
+}
+
+img {
+width: 100%;
+padding:1em 2em 1em 2em;
+
+
