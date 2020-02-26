@@ -57,7 +57,6 @@ div.mainmenu h2{
 div.mainmenu ul{
     text-transform: uppercase;
     font-family: 'Baloo Bhaina';
-    color:rgb(230, 0, 57);
 }
 
 div.mainmenu ul li{
@@ -67,13 +66,16 @@ div.mainmenu ul li{
     margin:0em 1.2em 0em 0em;
 }
 
+div.mainmenu ul li a{
+    color:rgb(230, 0, 57);
+}
+
 div.logo{
     margin: 1em 2em 0em 0em;
 }
 
 a:link{
     text-decoration:none;
-    color:rgb(230, 0, 57);
 }
 
 a:hover {
