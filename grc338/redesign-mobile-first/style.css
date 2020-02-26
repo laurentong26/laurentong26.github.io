@@ -1,22 +1,24 @@
 
 
 h2{
-    font-family: 'Anaheim', sans-serif;
+    font-family: 'Baloo Bhaina' ;
     font-size: 2.5em;
     color:rgb(255, 102, 102);
     text-align:left;
+    text-transform:uppercase;
+    margin: 0em 0em 0em 1em;
 }
 
 h3{
     font-size: 2em;
     color:rgb(230, 0, 57);
     text-align:center;
-    font-family: 'Anaheim', sans-serif;
+    font-family:'Varela Round';
 }
    
 h4{
-    font-family: 'Anaheim', sans-serif;
-    font-size: 1.4em;
+    font-family: 'Baloo Bhaina';
+    font-size: 1.7em;
     color:rgb(255, 102, 102); 
     text-transform: uppercase;
     margin: 3em 1em 1em 1em
@@ -24,9 +26,9 @@ h4{
 
 h5{
     font-family:sans-serif;
-    font-size:1em;
+    font-size:1.3em;
     color:rgb(115, 115, 115); 
-    margin: 1em;
+    margin: 1em 1em 1em 1.4em;
 }
 
 img {
@@ -39,7 +41,8 @@ img {
 p{
     font-family:sans-serif;
     color:rgb(115, 115, 115);
-    margin: 2em 1em 1em 1em
+    margin: 1em 1em 2em 1em;
+    font-size:1.3em;
 }
 
 ul{
@@ -49,19 +52,22 @@ ul{
 
 div.mainmenu h2{
     float:left;
-    font-style:italic;
 }
 
 div.mainmenu ul{
-    float:right;
     text-transform: uppercase;
-    font-family: 'Anaheim', sans-serif;
+    font-family: 'Baloo Bhaina';
 }
+
 div.mainmenu ul li{
     list-style-type: none;
     float:left;
-    font-size: 1.2em;
-    margin: 1em;
+    font-size:1.3em;
+    margin:0em 1.2em 0em 0em;
+}
+
+div.logo{
+    margin: 1em 2em 0em 0em;
 }
 
 a:link{
