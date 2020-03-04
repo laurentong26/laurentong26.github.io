@@ -12,8 +12,8 @@ h2{
 h3{
     font-size: 2em;
     color:rgb(230, 0, 57);
-    text-align:center;
     font-family:'Varela Round';
+    margin: 1.5em 1em 1em 1em;
 }
    
 h4{
@@ -21,7 +21,8 @@ h4{
     font-size: 1.7em;
     color:rgb(255, 102, 102); 
     text-transform: uppercase;
-    margin: 3em 1em 1em 1em
+    margin: 1em 1em 1em 1em;
+    
 }
 
 h5{
@@ -41,13 +42,15 @@ img {
 p{
     font-family:sans-serif;
     color:rgb(115, 115, 115);
-    margin: 1em 1em 2em 1em;
+    margin: 0.75em 1em 0em 1.5em;
     font-size:1.3em;
+   
 }
 
 ul{
     font-family: sans-serif;
     color:rgb(115, 115, 115);
+    font-size:1.1em;
 }
 
 div.mainmenu h2{
@@ -76,8 +79,29 @@ div.logo{
 
 a:link{
     text-decoration:none;
+    color:rgb(230, 0, 57);
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+table, th, td{
+    border:.1em solid #000000;
+    border-collapse: collapse;
+    color:rgb(115, 115, 115);
+}
+
+th, td{
+    padding: .5em;
+}
+
+table{
+    margin: 0 0 4em 03m;
+}
+
+th{
+    text-align: left;
+    font-family:sans-serif;
+    font-size: 1em;
 }
